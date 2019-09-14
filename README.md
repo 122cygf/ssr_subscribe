@@ -19,7 +19,7 @@
 6.连不上先考虑多换几个节点试，第二考虑更新订阅，第三再来找我说订阅凉了！！！谢谢
 
 #  使用方法
-Android
+#  Android
 
 1.没有SSR的话，去 https://www.lanzous.com/i3edd3g 下载一个
 
@@ -39,4 +39,27 @@ Android
 
 7.然后就可以使用了，点击右上方的闪电可以进行测速
 
-8.选择名字类似于A_JP_Tokyo_101的节点，其他的都是通知或者提示，连不上网，回到主页，点击粉色小飞机，你就到国外了
+8.选择名字类似于A_JP_Tokyo_101的节点，其他的都是通知或者提示，连不上网。回到主页，点击粉色小飞机，你就到国外了
+
+#  IOS
+
+1.去微信搜索小程序ckpro
+
+2.往下滑，找到shadowrocket，点开，复制账号和密码，到app store点击头像，退出登录，然后用复制的账号密码登录。
+
+3.搜索并下载shadowrocket，下载完退出账号，重新登陆自己的。
+
+4.打开软件，点击右上角加号，
+![Image text](https://images.smcdn.cn/x8HRHv1lBvQsfyQC/_37ea2ce2436645bd.png)
+
+5.类型选择subscribe
+![Image text](https://images.smcdn.cn/1ASs8m0QKeQX8tHp/7170cdfca86d2513.png)
+
+6.url填写我给你的链接，备注随便写
+![Image text](https://images.smcdn.cn/jMJn2CgC1kA8RrvJ/_506a58b9897f72b5.png)
+
+7.点击完成，自动回到主界面，在服务器订阅一栏新出现一个，左滑，点击更新
+![Image text](https://images.smcdn.cn/OY6SqcoMxM0NmPql/5b7e839cf5ea2269.png)
+
+8.更新完成，选择名字类似于A_JP_Tokyo_101的节点，其他的都是通知或者提示，连不上网。
+![Image text](https://images.smcdn.cn/ovOnJ6ZMoggua5UC/_18101b0d96837e72.png)

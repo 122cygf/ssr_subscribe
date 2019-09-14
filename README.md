@@ -66,3 +66,5 @@
 
 8.更新完成，选择名字类似于A_JP_Tokyo_101的节点，其他的都是通知或者提示，连不上网。
 ![Image text](https://images.smcdn.cn/ovOnJ6ZMoggua5UC/_18101b0d96837e72.png)
+
+9.全局路由选择代理即可

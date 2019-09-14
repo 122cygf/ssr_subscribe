@@ -21,7 +21,7 @@
 #  使用方法
 Android
 
-1.没有SSR的话，去https://www.lanzous.com/i3edd3g下载一个
+1.没有SSR的话，去 https://www.lanzous.com/i3edd3g 下载一个
 
 2.![Image text](https://images-cdn.shimo.im/0EU0v2N7YBwKx9I6/IMG_20190312_083536.jpg)
 

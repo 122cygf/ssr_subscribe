@@ -29,11 +29,13 @@ Android
 
 4.![Image text](https://images-cdn.shimo.im/89D2369HQPERFFhG/IMG_20190312_083739.jpg)
 
-5.复制我给你的订阅链接之后粘贴进去，不是让你点开的
+5.复制我给你的订阅链接之后粘贴进去
 ![Image text](https://images-cdn.shimo.im/4E36aMoTzs4030S1/IMG_20190314_154932.jpg)
 
 6.把自带的订阅向右扔掉，否则会一直转圈
 ![Image text](https://images-cdn.shimo.im/RDYwe24au54AB9Uf/IMG_20190314_155120.jpg)
+
+![Image text](https://images-cdn.shimo.im/0HYeyOw8BQIjv2ZY/IMG_20190314_155315.jpg)
 
 7.然后就可以使用了，点击右上方的闪电可以进行测速
 

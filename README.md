@@ -21,15 +21,19 @@
 #  使用方法
 Android
 
-1.没有SSR的话，去https://www.lanzous.com/i3edd3g下载一个。
+1.没有SSR的话，去https://www.lanzous.com/i3edd3g下载一个
 
-2.
+2.![Image text](https://images-cdn.shimo.im/0EU0v2N7YBwKx9I6/IMG_20190312_083536.jpg)
 
-3.
+3.![Image text](https://images-cdn.shimo.im/ZgYcEnqghdcjeyji/IMG_20190312_083637.jpg)
 
-5.复制我给你的订阅链接之后粘贴进去
+4.![Image text](https://images-cdn.shimo.im/89D2369HQPERFFhG/IMG_20190312_083739.jpg)
+
+5.复制我给你的订阅链接之后粘贴进去，不是让你点开的
+![Image text](https://images-cdn.shimo.im/4E36aMoTzs4030S1/IMG_20190314_154932.jpg)
 
 6.把自带的订阅向右扔掉，否则会一直转圈
+![Image text](https://images-cdn.shimo.im/RDYwe24au54AB9Uf/IMG_20190314_155120.jpg)
 
 7.然后就可以使用了，点击右上方的闪电可以进行测速
 

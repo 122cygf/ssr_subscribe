@@ -61,7 +61,7 @@
 6.url填写我给你的链接，备注随便写
 ![Image text](https://images.smcdn.cn/jMJn2CgC1kA8RrvJ/_506a58b9897f72b5.png)
 
-7.点击完成，自动回到主界面，在服务器订阅一栏新出现一个，左滑，点击更新
+7.点击完成，自动回到主界面，在服务器订阅一栏新出现一个，左滑，点击更新。更新完成之后，在软件的设置-服务器订阅中把打开时更新点开
 ![Image text](https://images.smcdn.cn/OY6SqcoMxM0NmPql/5b7e839cf5ea2269.png)
 
 8.更新完成，选择名字类似于A_JP_Tokyo_101的节点，其他的都是通知或者提示，连不上网。
